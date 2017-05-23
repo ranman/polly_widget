@@ -1,0 +1,4 @@
+goose-extractor
+pydub
+unidecode
+boto3
